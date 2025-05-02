@@ -98,6 +98,17 @@ See [LICENSE.txt](./LICENSE.txt) for details.
 
 Unless otherwise noted, all files © 2025 Metabase, Inc.
 
+
+This fork of [Metabase](https://github.com/metabase/metabase) is licensed under the AGPLv3.  
+All modifications made for branding and packaging are also AGPL and publicly available in this repository.
+
+---
+
+**Changes made by Simultelco:**
+- Custom branding (logo, colors, title)
+- Docker build for TwinChart
+
+
 ## [Metabase Experts](https://www.metabase.com/partners/)
 
 If you’d like more technical resources to set up your data stack with Metabase, connect with a [Metabase Expert](https://www.metabase.com/partners/?utm_source=readme&utm_medium=metabase-expetrs&utm_campaign=readme).
